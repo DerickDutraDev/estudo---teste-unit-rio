@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\bin\Debug\net9.0\Calculadora.Core.deps.json
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\bin\Debug\net9.0\Calculadora.Core.dll
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\bin\Debug\net9.0\Calculadora.Core.pdb
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.dll
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\refint\Calculadora.Core.dll
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.pdb
+C:\Users\PC\Desktop\TesteUnitarioCalc\Calculadora.Core\obj\Debug\net9.0\ref\Calculadora.Core.dll
